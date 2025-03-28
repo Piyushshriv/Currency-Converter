@@ -1,7 +1,7 @@
 # 💱 Currency Converter – Real-Time Exchange Rate Conversion  
 
 ## 📌 Overview  
-The **Currency Converter** is a simple yet powerful application designed to help users convert between different currencies quickly and efficiently. Built using **[your technology: Java, Python, JavaScript, etc.]**, this application allows for seamless conversions using **live exchange rates** (or predefined rates in offline mode). Whether you're traveling, managing finances, or simply curious about currency values, this tool provides an easy-to-use interface for accurate conversions.  
+The **Currency Converter** is a simple yet powerful application designed to help users convert between different currencies quickly and efficiently. Built using **[your technology: Java,  JavaScript, etc.]**, this application allows for seamless conversions using **live exchange rates** (or predefined rates in offline mode). Whether you're traveling, managing finances, or simply curious about currency values, this tool provides an easy-to-use interface for accurate conversions.  
 
 This project is an excellent **learning opportunity for developers**, showcasing concepts such as **API integration, user input handling, mathematical operations, and responsive UI design**.  
 
@@ -21,8 +21,7 @@ This project is an excellent **learning opportunity for developers**, showcasing
 ## 🛠️ Tech Stack  
 This project is built using **[your chosen technologies]**, ensuring efficient data processing and a smooth UI:  
 
-- **Frontend**: HTML, CSS, JavaScript (for web-based applications)  
-- **Backend**: Node.js, Python (Flask/Django), or Java (Spring Boot) for handling API requests  
+- **Frontend**: HTML, CSS, JavaScript (for web-based applications)    
 - **API Integration**: Fetches live exchange rates from **Open Exchange Rates API, Forex API, or similar services**  
 - **Database (Optional)**: MongoDB, Firebase, or SQLite for storing user preferences or historical data  
 
