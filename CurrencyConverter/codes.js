@@ -1,0 +1,21 @@
+const countryList = {
+    USD: "US",
+    EUR: "EU",
+    INR: "IN",
+    GBP: "GB",
+    JPY: "JP",
+    AUD: "AU",
+    CAD: "CA",
+    CHF: "CH",
+    CNY: "CN",
+    HKD: "HK",
+    NZD: "NZ",
+    SEK: "SE",
+    KRW: "KR",
+    SGD: "SG",
+    NOK: "NO",
+    MXN: "MX",
+    BRL: "BR",
+    ZAR: "ZA",
+  };
+  
